@@ -14,12 +14,19 @@ Summer RV | Autonomous Route Planning (Collision avoidance and object folliwng i
 
 1. Proposed Topic Summary
 Assignment: Final Project Proposal
+
 Course: Robotics, Autonomous Vehicles, Drones, and Artificial Intelligence: DGMD S-17 (34560)
+
 Course Instructor: Professor Jose Luis Ramirez Herran
+
 Term: Summer 2020
+
 Team Name: Summer RV
+
 Team Members: Fei Du, Lucy Chen Zhang, Luke Liang, Sourabh S. Bunnan, Bobby Wang, Youtai Cui
+
 Last edited: Aug. 4th, 2020 by Lucy
+
 
 Goal:
 Apply the object detection model to detect target/destination object, plan a path to navigate to it from starting point. On the trip, the robot car may encounter obstacles. Apply the object detection model to find a bounding box, type and distance of an obstacle object in an image, decide whether and how to avoid it. Specifically, plan a local path to avoid an obstacle based on the object detection result, execute the plan by converting the path to motor instructions. After obstacle avoidance, continue to go towards the target object until reaching a very close location.
