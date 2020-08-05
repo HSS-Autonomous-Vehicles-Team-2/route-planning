@@ -1,11 +1,14 @@
 
 Final GitHub Public Repository that contains (link):
+
 https://github.com/HSS-Autonomous-Vehicles-Team-2/route-planning
 
 Final Report: Document summarizing all the work:
+
 https://docs.google.com/document/d/1yxM9Neq-PtiPqXNC8gv6_98rRcDZEB936f3ltZJC4T8/edit?usp=sharing
 
 Slides:
+
 https://docs.google.com/presentation/d/13Lg12XX58tdk59Jm75Jf46mrFwnmdhGPJ1F2EGJlz9Y/edit?usp=sharing
 
 Live Demo video(2-3 minutes):
@@ -14,7 +17,9 @@ Code:
 https://github.com/HSS-Autonomous-Vehicles-Team-2/route-planning
 
 Data
+
 https://cocodataset.org/#home
+
 https://github.com/HSS-Autonomous-Vehicles-Team-2/Route_planning_example
 
 
