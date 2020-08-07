@@ -12,6 +12,8 @@ Slides:
 https://docs.google.com/presentation/d/13Lg12XX58tdk59Jm75Jf46mrFwnmdhGPJ1F2EGJlz9Y/edit?usp=sharing
 
 Live Demo video(2-3 minutes):
+https://drive.google.com/drive/folders/1_u-EHByVSo4UkcEX71Q4tSlcUhFZBSwL?usp=sharing
+Final_0; Final_1, Final_3 and etc; it is also shown in the slices.
 
 Code:
 https://github.com/HSS-Autonomous-Vehicles-Team-2/route-planning
