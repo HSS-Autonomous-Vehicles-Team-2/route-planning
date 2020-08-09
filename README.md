@@ -13,7 +13,7 @@ https://docs.google.com/presentation/d/13Lg12XX58tdk59Jm75Jf46mrFwnmdhGPJ1F2EGJl
 
 Live Demo video(2-3 minutes):
 https://drive.google.com/drive/folders/1_u-EHByVSo4UkcEX71Q4tSlcUhFZBSwL?usp=sharing
-Final_0; Final_1, Final_3 and etc; it is also shown in the slices.
+Final_0; Final_1, Final_3 and etc; it is also shown in the slides.
 
 Code:
 https://github.com/HSS-Autonomous-Vehicles-Team-2/route-planning
@@ -80,7 +80,6 @@ https://github.com/HSS-Autonomous-Vehicles-Team-2
 Slack https://s-17jetbot.slack.com/join/shared_invite/zt-fkpc4ej6-oHmdG5MeMbTmYSx735Zerw#/
 Zoom
 Google Docs
-Trello
 
 HARDWARE REQUIRED:
 Laptop Computer
