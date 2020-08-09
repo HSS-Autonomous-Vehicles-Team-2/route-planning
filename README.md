@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1_u-EHByVSo4UkcEX71Q4tSlcUhFZBSwL?usp=sha
 Final_0; Final_1, Final_3 and etc; it is also shown in the slides.
 
 Code:
-https://github.com/HSS-Autonomous-Vehicles-Team-2/route-planning
+https://github.com/HSS-Autonomous-Vehicles-Team-2/route-planning/blob/master/final_project.ipynb
 
 Data
 
